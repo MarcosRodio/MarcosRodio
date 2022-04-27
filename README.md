@@ -1,11 +1,10 @@
-### Oi... 👋, Meu nome é  **Marcos Rodio** de tudo um pouco, tudo junto e misturado###
+### Oi... 👋, Meu nome é  **Marcos Rodio** de tudo um pouco, tudo junto e misturad
 
 
 
-- 🔭 Analista de software
+- 👨🏻‍💻 Analista de software
 - 🥵 Analista de dados
-- 👨🏻‍💻 Desenvolvedor Java
-- 🌱 Aprendendo JS
+- 🌱 Atualmente me aprimorando em JS...
 
 
 <div align="center"> 
