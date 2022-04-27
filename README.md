@@ -3,7 +3,9 @@
 
 
 - 🔭 Analista de software
-- 🌱 Aprendendo JS...
+- 🥵 Analista de dados
+- 👨🏻‍💻 Desenvolvedor Java
+- 🌱 Aprendendo JS
 
 
 <div align="center"> 
