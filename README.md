@@ -1,4 +1,4 @@
-### Oi... 👋, Meu nome é  **Marcos Rodio** de tudo um pouco, tudo junto e misturad
+### Oi... 👋, Meu nome é  **Marcos Rodio** de tudo um pouco, tudo junto e misturado
 
 
 
