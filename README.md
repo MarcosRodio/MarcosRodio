@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Analista de software
 - 🥵 Analista de dados
-- 🌱 Atualmente me aprimorando em JS...
+- 🌱 Pós Graduação em programação PYthon.
 
 
 <div align="left"> 
