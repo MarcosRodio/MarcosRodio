@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Analista de software
 - 🥵 Analista de dados
-- 🌱 Pós Graduação em programação PYthon com ênfase em análise de dados.
+- 🌱 Pós Graduação em programação Python com ênfase em análise de dados.
 - 🤯 Me aprimoramento em Machine Learning pela DIO
 
 Atuo como gerente de atendimento e cobrança e sou responsável pela gestão dos indicadores da área comercial, utilizo-me  do BI
