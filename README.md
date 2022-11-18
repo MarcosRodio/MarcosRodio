@@ -9,6 +9,10 @@
 Atuo como gerente de atendimento e cobrança e sou responsável pela gestão dos indicadores da área comercial, utilizo do BI
 para gerar insights e tornar as decisões mais acertivas.
 
+<div align="left"> 
+<a href="https://github.com/MarcosRodio"> 
+</div> 
+<div style="display: inline_block"><br> 
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
