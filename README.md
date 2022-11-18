@@ -6,11 +6,10 @@
 - 🥵 Analista de dados
 - 🌱 Pós Graduação em programação PYthon com ênfase em análise de dados.
 
+Atuo como gerente de atendimento e cobrança e sou responsável pela gestão dos indicadores da área comercial, utilizo do BI
+para gerar insights e tornar as decisões mais acertivas.
 
-<div align="left"> 
-<a href="https://github.com/MarcosRodio"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosRodio&show_icons=true&theme=bluesky&include_all_commits <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRodio&layout=compact&langs_count=7&theme=dra </div> 
-<div style="display: inline_block"><br> 
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
