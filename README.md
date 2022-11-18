@@ -5,9 +5,11 @@
 - 👨🏻‍💻 Analista de software
 - 🥵 Analista de dados
 - 🌱 Pós Graduação em programação PYthon com ênfase em análise de dados.
+- 🤯 Me aprimoramento em Machine Learning pela DIO
 
-Atuo como gerente de atendimento e cobrança e sou responsável pela gestão dos indicadores da área comercial, utilizo do BI
-para gerar insights e tornar as decisões mais acertivas.
+Atuo como gerente de atendimento e cobrança e sou responsável pela gestão dos indicadores da área comercial, utilizo-me  do BI
+para gerar insights e tornar as decisões mais assertivas.
+Desenvolvo pequenos projetos em Python utilizando principalmente a biblioteca Pandas para automatizar alguns processos.
 
 <div align="left"> 
 <a href="https://github.com/MarcosRodio"> 
