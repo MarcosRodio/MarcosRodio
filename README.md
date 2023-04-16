@@ -14,7 +14,7 @@ Especialidades:
 - Django
 - Selenium 
 
-Minha paixão é o backend mas me aventuro no front principalemte com a ajuda do Bootstrap.
+Minha paixão é o backend mas me aventuro no front principalmente com a ajuda do Bootstrap.
 
 
 <div align="left"> 
