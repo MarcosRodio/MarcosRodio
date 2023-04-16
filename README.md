@@ -5,11 +5,16 @@
 - 👨🏻‍💻 Analista de software
 - 🥵 Analista de dados
 - 🌱 Pós Graduação em programação Python com ênfase em análise de dados.
-- 🤯 Me aprimoramento em Machine Learning pela DIO
+- 🤯 Especialista em automação com python
 
-Atuo como gerente de atendimento e cobrança e sou responsável pela gestão dos indicadores da área comercial, utilizo-me  do BI
-para gerar insights e tornar as decisões mais assertivas.
-Desenvolvo pequenos projetos em Python utilizando principalmente a biblioteca Pandas para automatizar alguns processos.
+Atuo como desenvolvedor Python, especialista em automação de processos.
+Especialidades:
+- Pandas
+- Django
+- Selenium 
+
+Minha paixão é o backend mas me aventuro no front principalemte com a ajuda do Bootstrap.
+
 
 <div align="left"> 
 <a href="https://github.com/MarcosRodio"> 
