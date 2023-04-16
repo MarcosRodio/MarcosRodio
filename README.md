@@ -8,6 +8,7 @@
 - 🤯 Especialista em automação com python
 
 Atuo como desenvolvedor Python, especialista em automação de processos.
+<br>
 Especialidades:
 - Pandas
 - Django
