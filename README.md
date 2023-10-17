@@ -1,5 +1,4 @@
-### Oi... 👋, Meu nome é  **Marcos Rodio**, de tudo um pouco, tudo junto e misturado
-
+### Oi... 👋, Meu nome é  **Marcos Rodio**, Analista, Desenvolvedor Python. 
 
 
 - 👨🏻‍💻 Analista de software
@@ -11,10 +10,10 @@ Atuo como desenvolvedor Python, especialista em automação de processos.
 <br>
 Especialidades:
 - Pandas
-- Django
-- Selenium 
+- SQL
+- Automação de processos 
 
-Minha paixão é o backend mas me aventuro no front principalmente com a ajuda do Bootstrap.
+Minha paixão é o backend, corro do front...
 
 
 <div align="left"> 
