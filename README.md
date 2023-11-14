@@ -33,4 +33,6 @@ Minha paixão é o backend, corro do front...
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height="40em" src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg"/>
 
+<img height="40em" src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
+
   
