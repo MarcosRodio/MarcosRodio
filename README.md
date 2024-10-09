@@ -27,7 +27,7 @@ Sou um desenvolvedor focado no backend, com grande paixão pela automação de p
 ### Conecte-se comigo:
 - 🌐 **Site**: [www.pythontech.com.br](http://www.pythontech.com.br)
 - 📧 **Email**: [mrodio@pythontech.com.br](mailto:mrodio@pythontech.com.br)
-- 💼 **LinkedIn**: [[linkedin.com/in/marcosrodio](https://linkedin.com/in/marcosrodio])
+- 💼 **LinkedIn**: [linkedin.com/in/marcosrodio](https://www.linkedin.com/in/marcos-rodio-96757a106/)
 - 🏢 **GitHub**: [github.com/MarcosRodio](https://github.com/MarcosRodio)
 
   
