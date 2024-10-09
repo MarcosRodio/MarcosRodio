@@ -18,15 +18,16 @@ Sou um desenvolvedor focado no backend, com grande paixão pela automação de p
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-    <img height="40em" src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg"/>
+    <img height="40em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg"/>
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img height="40em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-plain-wordmark.svg /> </a>
+    <img height="40em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-plain-wordmark.svg"/>
+  </a>
 </div>
+
 ### Conecte-se comigo:
 - 🌐 **Site**: [www.pythontech.com.br](http://www.pythontech.com.br)
 - 📧 **Email**: [mrodio@pythontech.com.br](mailto:mrodio@pythontech.com.br)
 - 💼 **LinkedIn**: [linkedin.com/in/marcosrodio](https://linkedin.com/in/marcosrodio)
 - 🏢 **GitHub**: [github.com/MarcosRodio](https://github.com/MarcosRodio)
-
 
   
