@@ -24,6 +24,7 @@ Sou um desenvolvedor focado no backend, com grande paixão pela automação de p
   </a>
 </div>
 
+
 ### Conecte-se comigo:
 - 🌐 **Site**: [www.pythontech.com.br](http://www.pythontech.com.br)
 - 📧 **Email**: [mrodio@pythontech.com.br](mailto:mrodio@pythontech.com.br)
