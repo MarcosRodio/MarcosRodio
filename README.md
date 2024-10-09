@@ -1,37 +1,33 @@
-### Oi... 👋, Meu nome é  **Marcos Rodio**, Analista, Desenvolvedor Python. 
+# 👋 Olá! Eu sou **Marcos Rodio** 
+### 👨🏻‍💻 Desenvolvedor Python | Especialista em Automação de Processos | Analista de Dados
 
+Sou um desenvolvedor focado no backend, com grande paixão pela automação de processos usando Python. Também tenho uma forte base em análise de dados e estou sempre em busca de novos conhecimentos.
 
-- 👨🏻‍💻 Analista de software
-- 🥵 Analista de dados
-- 🌱 Pós Graduação em programação Python com ênfase em análise de dados.
-- 🤯 Especialista em automação com python
+### Sobre mim:
+- 📊 Analista de Dados
+- 🧑‍🎓 Pós-graduado em Programação Python com ênfase em Análise de Dados
+- 🤖 Especialista em Automação de Processos
+- 🔧 Tecnologias principais: Pandas, SQL, Automação de Processos
+- 🚫 Foge do front-end, mas domina as ferramentas de backend!
 
-Atuo como desenvolvedor Python, especialista em automação de processos.
-<br>
-Especialidades:
-- Pandas
-- SQL
-- Automação de processos 
-
-Minha paixão é o backend, corro do front...
-
-
+### Minhas Ferramentas e Tecnologias:
 <div align="left"> 
-<a href="https://github.com/MarcosRodio"> 
-</div> 
-<div style="display: inline_block"><br> 
+  <a href="https://github.com/MarcosRodio">
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+    <img height="40em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/streamlit/streamlit-original-wordmark.svg" />
+  </a>
+</div>
 
+### Conecte-se comigo:
+- 🌐 **Site**: [www.pythontech.com.br](http://www.pythontech.com.br)
+- 📧 **Email**: [mrodio@pythontech.com.br](mailto:mrodio@pythontech.com.br)
+- 💼 **LinkedIn**: [linkedin.com/in/marcosrodio](https://linkedin.com/in/marcosrodio)
+- 🏢 **GitHub**: [github.com/MarcosRodio](https://github.com/MarcosRodio)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img height="40em" src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg"/>
-<img height="40em" src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
-<img height="40em" src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg"/>
 <img height="40em" src= "https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg"/>
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
